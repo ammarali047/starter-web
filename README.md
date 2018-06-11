@@ -16,6 +16,8 @@ This is a simple web project,deployment can be on any web server, or any local f
 
 ##How to Contribute
 
+Please Fork this repository
+
 ### Copyright
 
 2014.Git.Trainig
